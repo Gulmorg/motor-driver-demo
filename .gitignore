@@ -1,5 +1,11 @@
 # .gitignore file
 
+# build/ and dist/ folders
+build/
+debug/
+dist/
+nbproject/private/
+
 # MPLAB X IDE (Netbeans) specific
 **/*.X/~*.*
 **/*.X/build/
